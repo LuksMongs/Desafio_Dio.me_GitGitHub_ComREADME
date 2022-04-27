@@ -52,6 +52,8 @@
   
 - Organizar os arquivos, documentos, programas... Pasta Clonada que está na NOVA Pasta.
 
+  - Arquivos fora da PASTA CLONADA, ou seja, dentro da NOVA Pasta geram um erro na hora de "COMMITAR"
+
 - Com a Pasta ORGANIZADA realizar a ADIÇÃO desses arquivos ao GIT (pasta .git)
 
   - comando {git add nome_do_arquivo} : adiciona cada arquivo
