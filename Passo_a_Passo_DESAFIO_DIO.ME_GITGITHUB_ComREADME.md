@@ -46,11 +46,17 @@
 
 - Utilizando o gitbash realizar a clonagem dos arquivos já criados no site GitHub
   - comando {git clone http://endereco_copiado_do_github} (ctrl+v ou shift+insert)
+  
   - com a CLONAGEM será criado uma PASTA dentro da NOVA Pasta com o nome do REPOSITORIO criado no GITHUB.
+  
   - Normalmente dentro da Pasta Clonada há o arquivo "README.md" e/ou outro arquivo que tenha sido criado no site GITHUB.
+  
   - Todos os arquivos, documentos, programas... devem ser colocados nesta "Pasta CLONADA" pois ela está "linkada" com o GitHub.
-  - A CLONAGEM dispensa o "LINKAR" da NOVA Pasta ao GITHUB pois ela já cria essa "ligação"
-  -  Portanto DISPENSA o COMANDO {git remote add origin http://endereco_copiado_do_github} que criaria essa ligacao entre a NOVA Pasta e o GitHub.
+  
+  - > A CLONAGEM dispensa o "LINKAR" da NOVA Pasta ao GITHUB pois ela já cria essa "ligação"
+    >
+    > Portanto DISPENSA o COMANDO {git remote add origin http://endereco_copiado_do_github} que criaria essa ligacao entre a NOVA Pasta e o GitHub.
+  
 - Organizar os arquivos, documentos, programas... Pasta Clonada que está na NOVA Pasta.
 
   - Arquivos fora da PASTA CLONADA, ou seja, dentro da NOVA Pasta geram um erro na hora de "COMMITAR"
